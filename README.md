@@ -1,6 +1,6 @@
 packer-kali
 ===========
-A Kali 1.0.9a build for Packer
+A packer project for creating a Kali Linux distro
 
 ## Requirements
 * Packer
